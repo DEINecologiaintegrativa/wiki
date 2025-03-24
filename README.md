@@ -1,1 +1,2 @@
-# wiki
+# DEIN Ecología Integrativa Wiki  
+!Bienvenidos! Este wiki es un documento comunitario que comparte información sobre el programa de doctorado y herramientas para facilitar la integración de nuev@s estudiantes y el desarrollo académico y profesional de todos l@s estudiantes. Siendo un documento "vivo", depende de la participación activa de nuestra comunidad para construir y mantenerla. Para ello, toca aprender a usar [GitHub](https://www.freecodecamp.org/espanol/news/guia-para-principiantes-de-git-y-github/) para agregar o redactar información. 
